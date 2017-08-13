@@ -88,12 +88,8 @@ public class Calculator1 {
                     break;
                 } else buffer = buffer / number;
             }
-
-
         }
 
 
     }
-
-
 }
